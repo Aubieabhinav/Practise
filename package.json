@@ -1,0 +1,24 @@
+{
+  "name": "crud_practise",
+  "version": "1.0.0",
+  "description": "CRUD using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aubieabhinav/Practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aubieabhinav/Practise/issues"
+  },
+  "homepage": "https://github.com/Aubieabhinav/Practise#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.4"
+  }
+}
